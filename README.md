@@ -1,3 +1,8 @@
+### NOTE:
+This project has been moved to the independent Halcyon simulator project under:
+* https://github.com/HalcyonGrid/phlox
+
+---
 # phlox
 The InWorldz Phlox VM and LSL compiler
 
